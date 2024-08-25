@@ -1,4 +1,4 @@
-Python
-Flask
+Python 3.11.9
+Flask 
 Gunicorn
 
